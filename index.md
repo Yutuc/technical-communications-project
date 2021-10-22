@@ -1,10 +1,9 @@
 # Patrick Yutuc
 
-Address: 83 Sanderson Avenue, Winnipeg, Manitoba
-Phone Number: (204) 930-6740
-Email: yutucp@myumanitoba.ca
+Address: 83 Sanderson Avenue, Winnipeg, Manitoba (U+000A)
+Phone Number: (204) 930-6740 U+000A
+Email: yutucp@myumanitoba.ca 
 LinkedIn: [https://www.linkedin.com/in/patrick-yutuc-55ab31177/](https://www.linkedin.com/in/patrick-yutuc-55ab31177/)
-
 
 ## Education
 
