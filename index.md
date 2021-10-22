@@ -7,7 +7,7 @@ LinkedIn: [https://www.linkedin.com/in/patrick-yutuc-55ab31177/](https://www.lin
 
 ## Education
 
-**Bachelor of Science (September 2017 - Present)**
+**Bachelor of Science (September 2017 - Present)**  
 University of Manitoba
 Major: Computer Science (Co-op Option)
 Expected date of completion: December 2022
@@ -36,10 +36,10 @@ Relevant Coursework: Artificial Intelligence, Human Computer Interaction, Softwa
   * Unity
 
 ## Work Experience
-* **_Payworks (September 2021 - Present)_**
+* **_Payworks (September 2021 - Present)_**  
   **Software Developer**
   * Placeholder Text
-* **_Upfeat Media (January 2021 - April 2021)_**
+* **_Upfeat Media (January 2021 - April 2021)_**  
   **Full Stack Developer**
   * Exported an entire legacy website to WordPress using the REST API   which enabled Manitoba Post admins to easily manage their SEO and keep their website modern.
   * Collaborated with Shortlist and Trade House Media admins to implement advertisements on the Shortlist website for the first time and increased revenue
@@ -47,20 +47,20 @@ Relevant Coursework: Artificial Intelligence, Human Computer Interaction, Softwa
     both Web Vitals and Google Lighthouse tests
 
 ## Relevant Experience
-* **_YourPlan Fitness (January 2021 - Present)_**
+* **_YourPlan Fitness (January 2021 - Present)_**  
   **Partner/Software Developer**
   * Developing an all-in-one fitness and nutrition app that will provide the same guidance of a personal trainer
   * Generates workouts and meal plans that are personalized to fit the user’s goals, available equipment, and dietary restrictions
 goals, available equipment, and dietary limitations
 guidance of a real personal trainer
-* **_David Halliday Autosales (August 2021)_**
+* **_David Halliday Autosales (August 2021)_**  
   **Software Developer**
   * PlaceHolder Text
-* **_Health 101 Services (January 2020 - September 2020)_**
+* **_Health 101 Services (January 2020 - September 2020)_**  
   **Partner/Software Developer**
   * Created a website using React that provides potential clients and
     employees with valuable information about the company
-* **_Cerberus Software Solutions (January 2019 - December 2019)_**
+* **_Cerberus Software Solutions (January 2019 - December 2019)_**  
   **Partner/Software Developer**
   * Created an Android application for a personal trainer that streamlined how clients tracked their health and communicated with their trainer by combining functionality from the separate pieces of software previously used
   * Created an Android and iOS application for a sports retail store enabling them to promote their merchandise
