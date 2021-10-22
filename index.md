@@ -8,10 +8,10 @@ LinkedIn: [https://www.linkedin.com/in/patrick-yutuc-55ab31177/](https://www.lin
 ## Education
 
 **Bachelor of Science (September 2017 - Present)**  
-University of Manitoba
-Major: Computer Science (Co-op Option)
-Expected date of completion: December 2022
-Relevant Coursework: Artificial Intelligence, Human Computer Interaction, Software Engineering 
+University of Manitoba  
+Major: Computer Science (Co-op Option)  
+Expected date of completion: December 2022  
+Relevant Coursework: Artificial Intelligence, Human Computer Interaction, Software Engineering
 
 ## Technical Skills
 
