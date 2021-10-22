@@ -14,6 +14,7 @@ Expected date of completion: December 2022
 Relevant Coursework: Artificial Intelligence, Human Computer Interaction, Software Engineering 
 
 ## Technical Skills
+
 * **Languages**
   * Java
   * C/C#/C++
@@ -36,6 +37,7 @@ Relevant Coursework: Artificial Intelligence, Human Computer Interaction, Softwa
   * Unity
 
 ## Work Experience
+
 * **_Payworks (September 2021 - Present)_**  
   **Software Developer**
   * Placeholder Text
@@ -47,6 +49,7 @@ Relevant Coursework: Artificial Intelligence, Human Computer Interaction, Softwa
     both Web Vitals and Google Lighthouse tests
 
 ## Relevant Experience
+
 * **_YourPlan Fitness (January 2021 - Present)_**  
   **Partner/Software Developer**
   * Developing an all-in-one fitness and nutrition app that will provide the same guidance of a personal trainer
@@ -68,6 +71,7 @@ guidance of a real personal trainer
   * Presented solutions at a business meeting with potential clients
 
 ## Personal Projects
+
 * **_Flutter Messenger (December 2020)_**
   * A messaging app using the Flutter SDK and Firebase Realtime Database
 * **_React Native ToDo List (September 2019)_**
@@ -79,6 +83,7 @@ guidance of a real personal trainer
   * A messaging app using the Kotlin language and Firebase Realtime Database
 
 ## Academic Projects
+
 * **_LZW Encoder • Object Oriented Programming (March 2020)_**
   * Implemented using Hash Table and Linked List data structures
   * The LZW Encoder compresses large text files by encoding the text into numbers, which take less space in memory
@@ -93,6 +98,7 @@ guidance of a real personal trainer
   * The A* algorithm is implemented using a priority queue data structure
 
 ## Extracurricular
+
 * **_Payworks United Way Campaign (October 2021)_**
   * Placeholder Text
 * **_Stu Clark New Venture Championships: Undergraduate Edition (June 2021)_**
