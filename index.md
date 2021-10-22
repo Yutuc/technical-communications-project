@@ -110,4 +110,3 @@ guidance of a real personal trainer
   * Created an Android application that provides students and faculty of high schools with important information and updates about the school and consequently reduce the spending of paper
   * Presented the application as a product prototype at the Manitoba High School New Venture Championships and won third place in the trade show category
 
-
