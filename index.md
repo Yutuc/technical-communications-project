@@ -102,7 +102,7 @@ guidance of a real personal trainer
 ## Extracurricular
 
 * **_Payworks United Way Campaign (October 2021)_**
-  * Volunteered at United Way to gather supplies for Winnipeg's homeless
+  * Volunteered at United Way to gather essential supplies for Winnipeg's homeless
   * Planned future strategies to more effectively advertise United Way programs and to provide supplies where most needed
 * **_Stu Clark New Venture Championships: Undergraduate Edition (June 2021)_**
   * Developed a application that creates personalized nutrition and workout plans for beginners
