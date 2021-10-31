@@ -40,7 +40,8 @@ Relevant Coursework: Artificial Intelligence, Human Computer Interaction, Softwa
 
 * **_Payworks (September 2021 - Present)_**  
   **Software Developer**
-  * Placeholder Text
+  * Contributed to Payworks' generic importers which enabled clients to seamlessly import/update all of their client data in Payworks' system
+  * Maintained and refactored legacy code
 * **_Upfeat Media (January 2021 - April 2021)_**  
   **Full Stack Developer**
   * Exported an entire legacy website to WordPress using the REST API   which enabled Manitoba Post admins to easily manage their SEO and keep their website modern.
@@ -58,7 +59,8 @@ goals, available equipment, and dietary limitations
 guidance of a real personal trainer
 * **_David Halliday Autosales (August 2021)_**  
   **Software Developer**
-  * PlaceHolder Text
+  * Doubled the monthly revenue for a sales consultant at Winnipeg Hyundai
+  * Compiles the user's responses then sends the new lead to the consultant’s email
 * **_Health 101 Services (January 2020 - September 2020)_**  
   **Partner/Software Developer**
   * Created a website using React that provides potential clients and
@@ -100,9 +102,11 @@ guidance of a real personal trainer
 ## Extracurricular
 
 * **_Payworks United Way Campaign (October 2021)_**
-  * Placeholder Text
+  * Volunteered at United Way to gather supplies for Winnipeg's homeless
+  * Planned future strategies to more effectively advertise United Way programs and to provide supplies where most needed
 * **_Stu Clark New Venture Championships: Undergraduate Edition (June 2021)_**
-  * Placeholder Text
+  * Developed a application that creates personalized nutrition and workout plans for beginners
+  * Flutter/Dart is used for the frontend in tandem with Firebase and SQL for the backend
 * **_Cram Day Presenter (April 2019)_**
   * Tutored COMP1010 and COMP1020 students for their final exams by solidifying important concepts and providing problem solving methods
 * **_Programming Contest (September 2018)_**
