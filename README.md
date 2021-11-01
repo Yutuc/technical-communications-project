@@ -1,9 +1,8 @@
-# Project Title
+# How to host & format a resume using Markdown, VSCode, GitHub Pages, and Jekyll
 
-One Paragraph of the project description
+## Purpose
 
-Initially appeared on
-[gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). But the page cannot open anymore so that is why I have moved it here.
+The purpose of this document is to convince readers, especially software developers, into creating simple, elegant, and customizable resumés. Specifically, using current technical documentation tools such Markdown, VSCode, GitHub Pages, and Jekyll as  described in Andrew Etter's book, _Modern Technical Writing: An Introduction to Software Documentation_. Additionally, this tutorial will introduce and demonstrate key principles mentioned in Etter's book. These principles are particularily useful for computer science students as they describe comprehensive guidelines in creating effective documentation. This is a skill software developers in the workforce inevitably are required to learn and master. This stems from the fact that good documentation encourages and simplifies collaboration between software developers in teams; which is a common environment for developers.
 
 ## Getting Started
 
