@@ -48,18 +48,18 @@ __Explain why using GitHub, specifically version control, is useful and relate i
     Your dashboard should look something like this (left navigation bar will be empty if your account is new):
     ![GitHub Dashboard](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 3. Create a new repository.
-    3.1. Make sure to make your repository name __\<username\>.github.io__\ in this format. 
-    For example, if my username was JohnDoe then my repository name would be __\<johndoe\>.github.io__\
-     __Explain why this naming convention is useful__
+    * Make sure to make your repository name __\<username\>.github.io__\ in this format. 
+    * For example, if my username was JohnDoe then my repository name would be __\<johndoe\>.github.io__\
+    * __Explain why this naming convention is useful__
     ![Creating a new respository](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 4. Download your repository into your local system
     ![Download your repository](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 5. Open your repository folder in VSCode.
     ![Open repository in VSCode](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 6. Create 3 new files
-    6.1. Placeholder text
-    6.2. Placeholder text
-    6.3. Placeholder text
+    1. Placeholder text
+    2. Placeholder text
+    3. Placeholder text
 
 ### Style test
 
