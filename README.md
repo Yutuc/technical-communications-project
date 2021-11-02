@@ -50,8 +50,8 @@ Version control is important to documentation because as products/software chang
     ![GitHub Dashboard](https://i.imgur.com/gDiaDpV.jpg)
 3. Create a new repository
 
-    ![Creating a new repository](https://i.imgur.com/iC4PkgP.jpg)
-    ![Initial repository screen](https://i.imgur.com/TKA15WU.jpg)
+    * ![Creating a new repository](https://i.imgur.com/iC4PkgP.jpg)
+    * ![Initial repository screen](https://i.imgur.com/TKA15WU.jpg)
     * Make sure to make your repository name __\<username\>.github.io__ in this format
     * For example, if my username was JohnDoe then my repository name would be __johndoe\.github\.io__
     * This naming format is important because GitHub will recognize you want to create a static website and make the URL for this repository __https://\<username\>.github.io__
