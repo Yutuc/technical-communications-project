@@ -27,7 +27,7 @@ First, you are going need to a Markdown editor. I recommend using VSCode with a 
 #### Resumé
 You need to learn Markdown and have a Markdown editor to use. Then create a Markdown formatted resumé for yourself. 
 
-Since we are going to be hosting this project using GitHub Pages, I recommend getting familiar with GitHub Flavored Markdown. To learn Markdown, you can use either of the following links below: 
+Since we are going to be hosting this project using GitHub Pages, I recommend getting familiar with GitHub Flavored Markdown. To learn Markdown, you can use either of the following links: 
 - [GitHub Flavored Markdown](https://www.example.com)
 - [Vanilla Markdown](https://www.markdowntutorial.com/lesson/1/)
 
@@ -49,12 +49,12 @@ Version control is important to documentation because as products/software chang
 
     ![GitHub Dashboard](https://i.imgur.com/gDiaDpV.jpg)
 3. Create a new repository
+
     ![Creating a new repository](https://i.imgur.com/iC4PkgP.jpg)
     ![Initial repository screen](https://i.imgur.com/TKA15WU.jpg)
     * Make sure to make your repository name __\<username\>.github.io__ in this format
     * For example, if my username was JohnDoe then my repository name would be __johndoe\.github\.io__
     * This naming format is important because GitHub will recognize you want to create a static website and make the URL for this repository __https://\<username\>.github.io__
-
     
 4. Clone your repository into your local system
 
@@ -128,13 +128,10 @@ Jekyll is a static site generator that processes lightweight markup languages li
   - [Jekyll](https://jekyllrb.com/)
   - [Getting Started with GitHub Pages](https://guides.github.com/features/pages/)
 
-## Authors
+## Authors and Acknowledgements
 
   - __Patrick Yutuc__ - *Provided all project files* - [Yutuc](https://github.com/Yutuc)
-
-## Acknowledgments
-
-  - __Asia Miyayi__ - *Editor*
+  - __Asia Miyai__ - *Editor*
   - __Humayra Rafi__ - *Editor*
   - __Kamarabbas Saiyed__ - *Editor*
   - __Joe Smith__ - *Editor*
@@ -149,6 +146,6 @@ Jekyll is a static site generator that processes lightweight markup languages li
 2. "Why is my theme not rendering on my static website?" 
 
     __Solution 1:__ It may take a while for your changes to apply to the static website, wait 5-10 minutes and check back again. 
-    
+
     __Solution 2:__ Additionally, clear your browser's cache and refresh the page, then your theme may show.
 
