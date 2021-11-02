@@ -39,7 +39,7 @@ Great job so far! It is now time for the real fun stuff. Now, let us explore how
 
 #### Why GitHub?
 
-Version control is important to documentation because as products/software changes, so does the corresponding documentation. Version control also makes it easy to keep our documentation up to date and enables other developers to make suggestions to improve our documentation. In our case, we will store our documentation in the same repository its corresponding source code. As Etter (2016) explains, this approach has appeal to softawre developers as the "documentation and code branches stay in sync" and "developers are more likely to contribute if they don't have to clone a separate repository". We will be using GitHub due to the fact that it collaborates beautifully with GitHub Pages and Jekyll. 
+Version control is important to documentation because as products/software changes, so does the corresponding documentation. Version control also makes it easy to keep our documentation up to date and enables other developers to make suggestions to improve our documentation. In our case, we will store our documentation in the same repository its corresponding source code. As Etter explains, this approach has appeal to softawre developers as the "documentation and code branches stay in sync" and "developers are more likely to contribute if they don't have to clone a separate repository". We will be using GitHub due to the fact that it collaborates beautifully with GitHub Pages and Jekyll. 
 
 #### Instructions:
 
@@ -64,7 +64,7 @@ Version control is important to documentation because as products/software chang
 ### Markdown
 
 #### Why Markdown?
-First, you need to learn Markdown. Specifically, GitHub Flavored Markdown. Markdown is the most widely used lightweight markup language. Lightweight markup languages like Markdown are an important piece to static sites as they provide the content without having to learn more cumbersome languages like HTML and CSS. Additionally, out of the lightweight markup languages, Markdown has the "cleanest syntax" (Etter, 2016, p. 21). Markdown is great for creating content for static websites because it is quick, simple, and secure (Etter, 2016, p. 26). However, it has drawbacks such as "limited features" (Etter, 2016, p. 21), which makes customizing the aesthetics of your document difficult. Also, there is no universally agreed upon standard, which means users may have to convert their document to other Markdown flavors to make it compatible with certain websites (Etter, 2016, p. 21).
+First, you need to learn Markdown. Specifically, GitHub Flavored Markdown. Markdown is the most widely used lightweight markup language. Lightweight markup languages like Markdown are an important piece to static sites as they provide the content without having to learn more cumbersome languages like HTML and CSS. Additionally, in Etter's opinion, out of the lightweight markup languages, Markdown has the "cleanest syntax". Markdown is great for creating content for static websites because it is quick, simple, and secure (Etter, 2016, p. 26). However, it has drawbacks such as "limited features" (Etter, 2016, p. 21), which makes customizing the aesthetics of your document difficult. Also, there is no universally agreed upon standard, which means users may have to convert their document to other Markdown flavors to make it compatible with certain websites (Etter, 2016, p. 21).
 
 To reiterate, you can use either of the following links below to learn Markdown: 
 - [GitHub Flavored Markdown](https://www.example.com)
@@ -140,10 +140,10 @@ Jekyll is a static site generator that processes lightweight markup languages li
 
 ## FAQs (Frequently Asked Questions)
 
-1. “Why is Markdown better than a word processor?”
+1. Why is Markdown better than a word processor?
 
     __Answer:__ "Documentation with any sort of lifespan needs to be kept in version control" (Etter, 2016, p. 20). Markdown is better than word processors when it comes to creating documentation. Word processors create PDFs that can be consumed and discarded. Therefore, for creating documentation, Markdown is better than a word processor because it can used with version control. This makes Markdown documentation easy to edit and update for future versions. 
-2. "Why is my theme not rendering on my static website?" 
+2. Why is my theme not rendering on my static website?
 
     __Solution 1:__ It may take a while for your changes to apply to the static website, wait 5-10 minutes and check back again. 
 
