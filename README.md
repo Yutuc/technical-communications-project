@@ -42,7 +42,7 @@ If you are happy with using any of these GitHub Pages supported Jekyll [themes](
 
 Great job so far! It is now time for the real fun stuff. Now, let us explore how each component in our software stack interact with each other and how each of them relates back to Etter's protocol.
 
-### GitHub
+### GitHub Version Control
 __Explain why using GitHub, specifically version control, is useful and relate it to Andrew Etter's book.__
 
 1. Create a GitHub account [here](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) if you do not already have one
@@ -50,77 +50,79 @@ __Explain why using GitHub, specifically version control, is useful and relate i
     Your dashboard should look something like this (left navigation bar will be empty if your account is new):
 
     ![GitHub Dashboard](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
-3. Create a new repository.
+3. Create a new repository
     * Make sure to make your repository name __\<username\>.github.io__ in this format
-    * For example, if my username was JohnDoe then my repository name would be __\<johndoe\>.github.io__
+    * For example, if my username was JohnDoe then my repository name would be __johndoe\.github\.io__
     * __Explain why this naming convention is useful__
 
     ![Creating a new respository](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 4. Download your repository into your local system
 
     ![Download your repository](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
-5. Open your repository folder in VSCode.
+5. Open your repository folder in VSCode
 
     ![Open repository in VSCode](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
 6. Next, with your project's repository still open in VSCode, you are going to create __3__ new files:
     1. index\.md
-        * Explain what this is going to be
+        * This is the file where you will type your Markdown resumé in
     2. _config.yml
-        * Explain what this is going to be
+        * This file will control what Jekyll theme will be applied/rendered with your index\.md file
     3. README\.md
-        * Explain what this is going to be
+        * This file is for any documentation you may want to include
+
+    ![Creating necessary files](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+7. Commit your changes to your local git
+
+    ![Git Commit](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+8. Push your changes to GitHub
+
+    ![Git Push](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+
+9. You should now be able to see your new files in your repository in your GitHub account
+
+    ![View new files in GitHub](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
 ### Markdown
 __Markdown file, why is it fundamental to etters book, links to markdown tutorials, how to write a markdown file, why is this important to static sites, quote from andrew etters book__.
+1. Placeholder text
+
+### Hosting on GitHub Pages
+__choosing a jekyll theme, relate to etters book, relate static site generators like jekyll and why its mportant to andrew etters book__
+1. Navigate to the __Settings__ tab in your repository
+2. Then click the __Pages__ tab on the left navigation bar
+3. Within the __Pages/GitHub Pages__ tab set the __Source__ to be __master/root__ or __main/root__, depending on how your GitHub is configured, and then press __Save__.
+4. You may now view your static site at __https://\<username\>.github.io__
+    * For example, if my username was JohnDoe then my static site will be published at  __https://johndoe\.github\.io/__
 
 ### Choosing your Jekyll theme
+1. Navigate to the __Settings__ tab in your repository
+2. Then click the __Pages__ tab on the left navigation bar
+3. Within the __Pages/GitHub Pages__ tab 
 
-### Style test
-
-Checks if the best practices and the right coding style has been used.
-
-    Give an example
-
-## Deployment
-
-Add additional notes to deploy this on a live system
-
-## Built With
-
-  - [Contributor Covenant](https://www.contributor-covenant.org/) - Used
-    for the Code of Conduct
-  - [Creative Commons](https://creativecommons.org/) - Used to choose
-    the license
-
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
-of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [Semantic Versioning](http://semver.org/) for versioning. For the versions
-available, see the [tags on this
-repository](https://github.com/PurpleBooth/a-good-readme-template/tags).
+### More Resources
+  - [GitHub Flavored Markdown](https://www.example.com)
+  - [Vanilla Markdown](https://www.markdowntutorial.com/lesson/1/)
+  - [Modern Technical Writing: An Introduction to Software Documentation](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+  - [VSCode](https://code.visualstudio.com/)
+  - [Jekyll](https://jekyllrb.com/)
+  - [Getting Started with GitHub Pages](https://guides.github.com/features/pages/)
 
 ## Authors
 
-  - **Billie Thompson** - *Provided README Template* -
-    [PurpleBooth](https://github.com/PurpleBooth)
+  - __Patrick Yutuc__ - *Provided all project files* - [Yutuc](https://github.com/Yutuc)
 
-See also the list of
-[contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
-who participated in this project.
-
-## License
-
-This project is licensed under the [CC0 1.0 Universal](LICENSE.md)
-Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
-details
 
 ## Acknowledgments
 
-  - Hat tip to anyone whose code is used
-  - Inspiration
-  - etc
+  - __Asia Miyayi__ - *Editor*
+  - __Humayra Rafi__ - *Editor*
+  - __Kamarabbas Saiyed__ - *Editor*
+  - __Joe Smith__ - *Editor*
+  - __Billie Thompson__ - *Provided README Template* - [PurpleBooth](https://github.com/PurpleBooth)
+  - __GitHub Pages__ - *Provided Slate Theme* - [Slate Theme](https://github.com/pages-themes/slate)
+
+## FAQs (Frequently Asked Questions)
+
+1. A question about the overall process, such as “Why is Markdown better than a word processor?”
+2. A question about the practical details, such as “Why is my resume not showing up?”
