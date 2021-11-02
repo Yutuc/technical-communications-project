@@ -63,9 +63,9 @@ __Explain why using GitHub, specifically version control, is useful and relate i
 
     ![Open repository in VSCode](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 6. Create 3 new files
-    1. Placeholder text
-    2. Placeholder text
-    3. Placeholder text
+    1. index\.md
+    2. _config.yml
+    3. README\.md
 
 ### Style test
 
