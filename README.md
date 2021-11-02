@@ -10,15 +10,8 @@ Now, I understand some of you may not have any experience in Markdown, VSCode, G
 
 ### Prerequisites
 
-#### Markdown
-First, you need to learn Markdown. Specifically, GitHub Flavored Markdown. Markdown is the most widely used lightweight markup language. Additionally, out of the lightweight markup languages, Markdown has the "cleanest syntax" (Etter, 2016, p. 21). However, it has drawbacks such as limited features, which makes customizing the aesthetics of your document difficult. Also, there is no universally agreed upon standard, which means users may have to convert their document to other Markdown flavors to make it compatible with certain websites.
-
-Since we are going to be hosting this project using GitHub Pages, I recommend getting familiar with GitHub Flavored Markdown. To learn Markdown, you can use either of the following links below: 
-- [GitHub Flavored Markdown](https://www.example.com)
-- [Vanilla Markdown](https://www.markdowntutorial.com/lesson/1/)
-
 #### VSCode
-Next you need to a Markdown editor. I recommend using VSCode with a Markdown viewer extension. 
+First, you are going need to a Markdown editor. I recommend using VSCode with a Markdown viewer extension. 
 
 1. Install VSCode through this [link](https://code.visualstudio.com/)
 2. Then install the Markdown Preview Enhanced extension by Yiyi Wang
@@ -29,21 +22,23 @@ Next you need to a Markdown editor. I recommend using VSCode with a Markdown vie
     ![Using Markdown Preview Enhanced Extension](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
 #### Resumé
-Once you know Markdown and have a Markdown editor to use, create a Markdown formatted resumé for yourself. 
+You need to learn Markdown and have a Markdown editor to use. Then create a Markdown formatted resumé for yourself. 
 
-#### Jekyll
-If you are happy with using any of these GitHub Pages supported Jekyll [themes](https://pages.github.com/themes/) then you may skip this section. Otherwise, you will need to install Jekyll locally to be able to use custom Jekyll themes from other sources. Choose your operating system below and follow the installation steps.
-- [Windows](https://jekyllrb.com/docs/installation/windows/)
-- [macOS](https://jekyllrb.com/docs/installation/macos/)
-- [Ubuntu](https://jekyllrb.com/docs/installation/ubuntu/)
-- [Other Linux](https://jekyllrb.com/docs/installation/other-linux/)
+Since we are going to be hosting this project using GitHub Pages, I recommend getting familiar with GitHub Flavored Markdown. To learn Markdown, you can use either of the following links below: 
+- [GitHub Flavored Markdown](https://www.example.com)
+- [Vanilla Markdown](https://www.markdowntutorial.com/lesson/1/)
 
 ## How to host a Markdown resumé on GitHub Pages
 
 Great job so far! It is now time for the real fun stuff. Now, let us explore how each component in our software stack interact with each other and how each of them relates back to Etter's protocol.
 
 ### GitHub Version Control
+
+#### Why GitHub?
 __Explain why using GitHub, specifically version control, is useful and relate it to Andrew Etter's book.__
+Version control is important to documentation because as products/software changes, so does the corresponding documentation. Version control also makes it easy to keep our documentation up to date and enables other developers to make suggestions to improve our documentation. In our case, we will store our documentation in the same repository its corresponding source code. As Etters (2016) explains, this approach has appeal to softawre developers as the "documentation and code branches stay in sync" and "developers are more likely to contribute if they don't have to clone a separate repository". We will be using GitHub due to the fact that it collaborates beautifully with GitHub Pages and Jekyll. 
+
+#### Instructions
 
 1. Create a GitHub account [here](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) if you do not already have one
 2. [Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fsignup%3Fref_cta%3DSign%2Bup) to your new GitHub account
@@ -63,42 +58,67 @@ __Explain why using GitHub, specifically version control, is useful and relate i
 
     ![Open repository in VSCode](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
-6. Next, with your project's repository still open in VSCode, you are going to create __3__ new files:
-    1. index\.md
+### Markdown
+
+#### Why Markdown?
+First, you need to learn Markdown. Specifically, GitHub Flavored Markdown. Markdown is the most widely used lightweight markup language. Lightweight markup languages like Markdown are an important piece to static sites as they provide the content without having to learn more cumbersome languages like HTML and CSS. Additionally, out of the lightweight markup languages, Markdown has the "cleanest syntax" (Etter, 2016, p. 21). Markdown is great for creating content for static websites because it is quick, simple, and secure (Etter, 2016, p. 26). However, it has drawbacks such as "limited features" (Etter, 2016, p. 21), which makes customizing the aesthetics of your document difficult. Also, there is no universally agreed upon standard, which means users may have to convert their document to other Markdown flavors to make it compatible with certain websites (Etter, 2016, p. 21).
+
+To reiterate, you can use either of the following links below to learn Markdown: 
+- [GitHub Flavored Markdown](https://www.example.com)
+- [Vanilla Markdown](https://www.markdowntutorial.com/lesson/1/)
+
+#### Instructions
+
+1. Next, with your project's repository still open in VSCode, you are going to create __3__ new files:
+    1. __index\.md__
         * This is the file where you will type your Markdown resumé in
-    2. _config.yml
+    2. ___config.yml__
         * This file will control what Jekyll theme will be applied/rendered with your index\.md file
-    3. README\.md
+    3. __README\.md__
         * This file is for any documentation you may want to include
 
     ![Creating necessary files](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
-7. Commit your changes to your local git
+2. Commit your changes to your local git
 
     ![Git Commit](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
-8. Push your changes to GitHub
+3. Push your changes to GitHub
 
     ![Git Push](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
-9. You should now be able to see your new files in your repository in your GitHub account
+4. You should now be able to see your new files in your repository in your GitHub account
 
     ![View new files in GitHub](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
-### Markdown
-__Markdown file, why is it fundamental to etters book, links to markdown tutorials, how to write a markdown file, why is this important to static sites, quote from andrew etters book__.
-1. Placeholder text
-
 ### Hosting on GitHub Pages
 __choosing a jekyll theme, relate to etters book, relate static site generators like jekyll and why its mportant to andrew etters book__
+
+#### Why GitHub Pages?
+
+Etters (2016) says, "\[h]osting your content on a website gives you the power to fix inaccuracies almost instantly and keep your content in sync with the latest software release". A great example of a hosting site is GitHub Pages. GitHub Pages is available for GitHub users and enables them to host their static websites. We are using this to host our static website because it pairs well with our GitHub version control since they are both on the same site. GitHub Pages also has a built in Jekyll static site generator which makes choosing a theme easy. I recommend using GitHub Pages as it seamlessly integrates with other components of our software stack.
+
+#### Instructions
+
 1. Navigate to the __Settings__ tab in your repository
 2. Then click the __Pages__ tab on the left navigation bar
-3. Within the __Pages/GitHub Pages__ tab set the __Source__ to be __master/root__ or __main/root__, depending on how your GitHub is configured, and then press __Save__.
-4. You may now view your static site at __https://\<username\>.github.io__
-    * For example, if my username was JohnDoe then my static site will be published at  __https://johndoe\.github\.io/__
+3. Within the __Pages/GitHub Pages__ tab, under the __Source__ section, set the source to be __master/root__ or __main/root__, depending on how your GitHub is configured
+4. Next press __Save__ for the __Source__ section
+5. You may now view your static site at __https://\<username\>.github.io__
+    * For example, if my username was JohnDoe then my static site will be published at  __https://johndoe.github.io/__
 
 ### Choosing your Jekyll theme
+
+#### Why Jekyll?
+Jekyll is a static site generator that processes lightweight markup languages like Markdown and a theme into a "beautiful \[and] functional website" (Etter, 2016, p. 26). Furthermore, static site generators are great to use because they have "no server-side application dependencies, no databases, and nothing to install, so migrating the entire site is as easy as moving a directory" (Etter, 2016, p. 26). Also, static websites are testable on your local computer without the need of any additional installations or having to "compress and ship them with software applications" (Etter, 2016, p. 26). It is possible to create simple static websites manually, but to make things easier and "to do anything complex, you'll want to use a generator" (Etter, 2016, p. 26).
+
+#### Instructions
+
+__choosing a jekyll theme, relate to etters book, relate static site generators like jekyll and why its mportant to andrew etters book
 1. Navigate to the __Settings__ tab in your repository
 2. Then click the __Pages__ tab on the left navigation bar
-3. Within the __Pages/GitHub Pages__ tab 
+3. Within the __Pages/GitHub Pages__ tab, under __Theme chooser__, click the __Change theme__ button.
+4. Explore your theme options and once you have settled on your favorite, click the __Select theme__ button
+5. View the Jekyll theme applied to your static site at __https://\<username\>.github.io__
+    * For example, if my username was JohnDoe then my static site will be published at  __https://johndoe.github.io/__
 
 ### More Resources
   - [GitHub Flavored Markdown](https://www.example.com)
@@ -112,7 +132,6 @@ __choosing a jekyll theme, relate to etters book, relate static site generators 
 
   - __Patrick Yutuc__ - *Provided all project files* - [Yutuc](https://github.com/Yutuc)
 
-
 ## Acknowledgments
 
   - __Asia Miyayi__ - *Editor*
@@ -125,4 +144,7 @@ __choosing a jekyll theme, relate to etters book, relate static site generators 
 ## FAQs (Frequently Asked Questions)
 
 1. A question about the overall process, such as “Why is Markdown better than a word processor?”
-2. A question about the practical details, such as “Why is my resume not showing up?”
+2. "Why is my theme not rendering on my static website?" 
+    __Solution 1:__ It may take a while for your changes to apply to the static website, wait 5-10 minutes and check back again. 
+    __Solution 2:__ Additionally, clear your browser's cache and refresh the page, then your theme may show.
+
