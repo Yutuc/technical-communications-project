@@ -62,10 +62,19 @@ __Explain why using GitHub, specifically version control, is useful and relate i
 5. Open your repository folder in VSCode.
 
     ![Open repository in VSCode](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
-6. Create 3 new files
+
+6. Next, with your project's repository still open in VSCode, you are going to create __3__ new files:
     1. index\.md
+        * Explain what this is going to be
     2. _config.yml
+        * Explain what this is going to be
     3. README\.md
+        * Explain what this is going to be
+
+### Markdown
+__Markdown file, why is it fundamental to etters book, links to markdown tutorials, how to write a markdown file, why is this important to static sites, quote from andrew etters book__.
+
+### Choosing your Jekyll theme
 
 ### Style test
 
