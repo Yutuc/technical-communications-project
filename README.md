@@ -46,6 +46,7 @@ __Explain why using GitHub, specifically version control, is useful and relate i
 1. Create a GitHub account [here](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) if you do not already have one.
 2. [Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fsignup%3Fref_cta%3DSign%2Bup) to your new GitHub account.
     Your dashboard should look something like this (left navigation bar will be empty if your account is new):
+    
     ![GitHub Dashboard](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 3. Create a new repository.
     * Make sure to make your repository name __\<username\>.github.io__\ in this format. 
