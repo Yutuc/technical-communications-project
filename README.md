@@ -38,7 +38,7 @@ Great job so far! It is now time for the real fun stuff. Now, let us explore how
 ### GitHub Version Control
 
 #### Why GitHub?
-__Explain why using GitHub, specifically version control, is useful and relate it to Andrew Etter's book.__
+
 Version control is important to documentation because as products/software changes, so does the corresponding documentation. Version control also makes it easy to keep our documentation up to date and enables other developers to make suggestions to improve our documentation. In our case, we will store our documentation in the same repository its corresponding source code. As Etters (2016) explains, this approach has appeal to softawre developers as the "documentation and code branches stay in sync" and "developers are more likely to contribute if they don't have to clone a separate repository". We will be using GitHub due to the fact that it collaborates beautifully with GitHub Pages and Jekyll. 
 
 #### Instructions
@@ -56,12 +56,10 @@ Version control is important to documentation because as products/software chang
     * This naming format is important because GitHub will recognize you want to create a static website and make the URL for this repository __https://\<username\>.github.io__
 
     
-4. Clone your repository into your local system and then open it in VSCode
+4. Clone your repository into your local system
 
-    ![Clone repository](https://i.imgur.com/YfzRC9G.gifv)
-5. Open your repository folder in VSCode
-
-    ![Open repository in VSCode](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+    ![Cloning repository](https://i.imgur.com/E7cqNN4.gif)
+5. Open your recently cloned repository folder in VSCode
 
 ### Markdown
 
@@ -77,22 +75,21 @@ To reiterate, you can use either of the following links below to learn Markdown:
 1. Next, with your project's repository still open in VSCode, you are going to create __3__ new files:
     1. __index\.md__
         * This is the file where you will type your Markdown resumé in
+
+        ![Resume typing demo](https://i.imgur.com/H5sfEvT.gif)
     2. ___config.yml__
         * This file will control what Jekyll theme will be applied/rendered with your index\.md file
     3. __README\.md__
         * This file is for any documentation you may want to include
 
-    ![Creating necessary files](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 2. Commit your changes to your local git
 
-    ![Git Commit](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+    ![Git Commit](https://i.imgur.com/8IFlG0p.gif)
 3. Push your changes to GitHub
 
-    ![Git Push](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+    ![Git Push](https://i.imgur.com/ZX0V28Y.gif)
 
 4. You should now be able to see your new files in your repository in your GitHub account
-
-    ![View new files in GitHub](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
 ### Hosting on GitHub Pages
 
@@ -146,7 +143,8 @@ Jekyll is a static site generator that processes lightweight markup languages li
 
 ## FAQs (Frequently Asked Questions)
 
-1. A question about the overall process, such as “Why is Markdown better than a word processor?”
+1. “Why is Markdown better than a word processor?”
+    __Answer:__ "Documentation with any sort of lifespan needs to be kept in version control" (Etter, 2016, p. 20). Markdown is better than word processors when it comes to creating documentation. Word processors create PDFs that can be consumed and discarded. Therefore, for creating documentation, Markdown is better than a word processor because it can used with version control. This makes Markdown documentation easy to edit and update for future versions. 
 2. "Why is my theme not rendering on my static website?" 
     __Solution 1:__ It may take a while for your changes to apply to the static website, wait 5-10 minutes and check back again. 
     __Solution 2:__ Additionally, clear your browser's cache and refresh the page, then your theme may show.
