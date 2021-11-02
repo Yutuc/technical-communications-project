@@ -90,7 +90,6 @@ To reiterate, you can use either of the following links below to learn Markdown:
     ![View new files in GitHub](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
 ### Hosting on GitHub Pages
-__choosing a jekyll theme, relate to etters book, relate static site generators like jekyll and why its mportant to andrew etters book__
 
 #### Why GitHub Pages?
 
@@ -108,11 +107,10 @@ Etters (2016) says, "\[h]osting your content on a website gives you the power to
 ### Choosing your Jekyll theme
 
 #### Why Jekyll?
-Jekyll is a static site generator that processes lightweight markup languages like Markdown and a theme into a "beautiful \[and] functional website" (Etter, 2016, p. 26). Furthermore, static site generators are great to use because they have "no server-side application dependencies, no databases, and nothing to install, so migrating the entire site is as easy as moving a directory" (Etter, 2016, p. 26). Also, static websites are testable on your local computer without the need of any additional installations or having to "compress and ship them with software applications" (Etter, 2016, p. 26). It is possible to create simple static websites manually, but to make things easier and "to do anything complex, you'll want to use a generator" (Etter, 2016, p. 26).
+Jekyll is a static site generator that processes lightweight markup languages like Markdown and a theme, into "beautiful \[and] functional website\[s]" (Etter, 2016, p. 26). Furthermore, static site generators are great to use because they have "no server-side application dependencies, no databases, and nothing to install, so migrating the entire site is as easy as moving a directory" (Etter, 2016, p. 26). Also, static websites are testable on your local computer without the need of any additional installations or having to "compress and ship them with software applications" (Etter, 2016, p. 26). It is possible to create simple static websites manually, but to make things easier and "to do anything complex, you'll want to use a generator" (Etter, 2016, p. 26).
 
 #### Instructions
 
-__choosing a jekyll theme, relate to etters book, relate static site generators like jekyll and why its mportant to andrew etters book
 1. Navigate to the __Settings__ tab in your repository
 2. Then click the __Pages__ tab on the left navigation bar
 3. Within the __Pages/GitHub Pages__ tab, under __Theme chooser__, click the __Change theme__ button.
