@@ -50,8 +50,8 @@ Version control is important to documentation because as products/software chang
     ![GitHub Dashboard](https://i.imgur.com/gDiaDpV.jpg)
 3. Create a new repository
 
-    * ![Creating a new repository](https://i.imgur.com/iC4PkgP.jpg)
-    * ![Initial repository screen](https://i.imgur.com/TKA15WU.jpg)
+     ![Creating a new repository](https://i.imgur.com/iC4PkgP.jpg)
+     ![Initial repository screen](https://i.imgur.com/TKA15WU.jpg)
     * Make sure to make your repository name __\<username\>.github.io__ in this format
     * For example, if my username was JohnDoe then my repository name would be __johndoe\.github\.io__
     * This naming format is important because GitHub will recognize you want to create a static website and make the URL for this repository __https://\<username\>.github.io__
@@ -124,7 +124,7 @@ Jekyll is a static site generator that processes lightweight markup languages li
   - [GitHub Flavored Markdown](https://www.example.com)
   - [Vanilla Markdown](https://www.markdowntutorial.com/lesson/1/)
   - [Modern Technical Writing: An Introduction to Software Documentation](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
-  - [VSCode](https://code.visualstudio.com/)
+  - [Visual Studio Code](https://code.visualstudio.com/)
   - [Jekyll](https://jekyllrb.com/)
   - [Getting Started with GitHub Pages](https://guides.github.com/features/pages/)
 
