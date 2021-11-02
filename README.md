@@ -6,41 +6,60 @@ The purpose of this document is to convince readers, especially software develop
 
 ## Getting Started
 
-These instructions will give you a copy of the project up and running on
-your local machine for development and testing purposes. See deployment
-for notes on deploying the project on a live system.
+Now, I understand some of you may not have any experience in Markdown, VSCode, GitHub Pages, or Jekyll. This is totally okay! This tutorial will comprehensively go through each step while explaining how it relates to Etter's protocol. First, let us start with a couple of prerequisites. 
 
 ### Prerequisites
 
-Requirements for the software and other tools to build, test and push 
-- [Example 1](https://www.example.com)
-- [Example 2](https://www.example.com)
+#### Markdown
+First, you need to learn Markdown. Specifically, GitHub Flavored Markdown. Markdown is the most widely used lightweight markup language. Additionally, out of the lightweight markup languages, Markdown has the "cleanest syntax" (Etter, 2016, p. 21). However, it has drawbacks such as limited features, which makes customizing the aesthetics of your document difficult. Also, there is no universally agreed upon standard, which means users may have to convert their document to other Markdown flavors to make it compatible with certain websites.
 
-### Installing
+Since we are going to be hosting this project using GitHub Pages, I recommend getting familiar with GitHub Flavored Markdown. To learn Markdown, you can use either of the following links below: 
+- [GitHub Flavored Markdown](https://www.example.com)
+- [Vanilla Markdown](https://www.markdowntutorial.com/lesson/1/)
 
-A step by step series of examples that tell you how to get a development
-environment running
+#### VSCode
+Next you need to a Markdown editor. I recommend using VSCode with a Markdown viewer extension. 
 
-Say what the step will be
+1. Install VSCode through this [link](https://code.visualstudio.com/).
+2. Then install the Markdown Preview Enhanced extension by Yiyi Wang.
+![Installing Markdown Preview Enhanced](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+3. You may now edit Markdown files and see how they will be rendered in real time.
+![Using Markdown Preview Enhanced Extension](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
-    Give the example
+#### Resumé
+Once you know Markdown and have a Markdown editor to use, create a Markdown formatted resumé for yourself. 
 
-And repeat
+#### Jekyll
+If you are happy with using any of these GitHub Pages supported Jekyll [themes](https://pages.github.com/themes/) then you may skip this section. Otherwise, you will need to install Jekyll locally to be able to use custom Jekyll themes from other sources. Choose your operating system below and follow the installation steps.
+- [Windows](https://jekyllrb.com/docs/installation/windows/)
+- [macOS](https://jekyllrb.com/docs/installation/macos/)
+- [Ubuntu](https://jekyllrb.com/docs/installation/ubuntu/)
+- [Other Linux](https://jekyllrb.com/docs/installation/other-linux/)
 
-    until finished
+## How to host a Markdown resumé on GitHub Pages
 
-End with an example of getting some data out of the system or using it
-for a little demo
+Great job so far! It is now time for the real fun stuff. Now, let us explore how each component in our software stack interact with each other and how each of them relates back to Etter's protocol.
 
-## Running the tests
+### GitHub
+__Explain why using GitHub, specifically version control, is useful and relate it to Andrew Etter's book.__
 
-Explain how to run the automated tests for this system
-
-### Sample Tests
-
-Explain what these tests test and why
-
-    Give an example
+1. Create a GitHub account [here](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) if you do not already have one.
+2. [Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fsignup%3Fref_cta%3DSign%2Bup) to your new GitHub account.
+    Your dashboard should look something like this (left navigation bar will be empty if your account is new):
+    ![GitHub Dashboard](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+3. Create a new repository.
+    3.1. Make sure to make your repository name __\<username\>.github.io__\ in this format. 
+    For example, if my username was JohnDoe then my repository name would be __\<johndoe\>.github.io__\
+     __Explain why this naming convention is useful__
+    ![Creating a new respository](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+4. Download your repository into your local system
+    ![Download your repository](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+5. Open your repository folder in VSCode.
+    ![Open repository in VSCode](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+6. Create 3 new files
+    6.1. Placeholder text
+    6.2. Placeholder text
+    6.3. Placeholder text
 
 ### Style test
 
