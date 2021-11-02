@@ -16,10 +16,13 @@ First, you are going need to a Markdown editor. I recommend using VSCode with a 
 1. Install VSCode through this [link](https://code.visualstudio.com/)
 2. Then install the Markdown Preview Enhanced extension by Yiyi Wang
 
-    ![Installing Markdown Preview Enhanced](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+    ![Installing Markdown Preview Enhanced](https://i.imgur.com/CafrpvT.jpeg)
+4. Click the Markdown Preview button on the top right corner
+
+    ![Markdown Preview Button](https://i.imgur.com/r2wHM6u.jpg)
 3. You may now edit Markdown files and see how they will be rendered in real time
 
-    ![Using Markdown Preview Enhanced Extension](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+    ![Using Markdown Preview Enhanced Extension](https://i.imgur.com/a1BVtkK.jpg)
 
 #### Resumé
 You need to learn Markdown and have a Markdown editor to use. Then create a Markdown formatted resumé for yourself. 
@@ -44,16 +47,18 @@ Version control is important to documentation because as products/software chang
 2. [Sign in](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fsignup%3Fref_cta%3DSign%2Bup) to your new GitHub account
     Your dashboard should look something like this (left navigation bar will be empty if your account is new):
 
-    ![GitHub Dashboard](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+    ![GitHub Dashboard](https://i.imgur.com/gDiaDpV.jpg)
 3. Create a new repository
+    ![Creating a new repository](https://i.imgur.com/iC4PkgP.jpg)
+    ![Initial repository screen](https://i.imgur.com/TKA15WU.jpg)
     * Make sure to make your repository name __\<username\>.github.io__ in this format
     * For example, if my username was JohnDoe then my repository name would be __johndoe\.github\.io__
-    * __Explain why this naming convention is useful__
+    * This naming format is important because GitHub will recognize you want to create a static website and make the URL for this repository __https://\<username\>.github.io__
 
-    ![Creating a new respository](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
-4. Download your repository into your local system
+    
+4. Clone your repository into your local system and then open it in VSCode
 
-    ![Download your repository](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+    ![Clone repository](https://i.imgur.com/YfzRC9G.gifv)
 5. Open your repository folder in VSCode
 
     ![Open repository in VSCode](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
