@@ -149,5 +149,6 @@ Jekyll is a static site generator that processes lightweight markup languages li
 2. "Why is my theme not rendering on my static website?" 
 
     __Solution 1:__ It may take a while for your changes to apply to the static website, wait 5-10 minutes and check back again. 
+    
     __Solution 2:__ Additionally, clear your browser's cache and refresh the page, then your theme may show.
 
