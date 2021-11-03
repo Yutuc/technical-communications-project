@@ -6,7 +6,7 @@ The purpose of this document is to convince readers, especially software develop
 
 ## Getting Started
 
-Now, I understand some of you may not have any experience in Markdown, VSCode, GitHub Pages, or Jekyll. This is totally okay! This tutorial will comprehensively go through each step while explaining how it relates to Etter's protocol. First, let us start with a couple of prerequisites. 
+I understand some of you may not have any experience in Markdown, VSCode, GitHub Pages, or Jekyll. This tutorial will comprehensively go through each step while explaining how it relates to Etter's protocol. First, let us start with a couple of prerequisites. 
 
 ### Prerequisites
 
@@ -33,7 +33,7 @@ Since we are going to be hosting this project using GitHub Pages, I recommend ge
 
 ## How to host a Markdown resumé on GitHub Pages
 
-Great job so far! It is now time for the real fun stuff. Now, let us explore how each component in our software stack interact with each other and how each of them relates back to Etter's protocol.
+Now, let us explore how each component in our software stack interact with each other and how each of them relates back to Etter's protocol.
 
 ### GitHub Version Control
 
