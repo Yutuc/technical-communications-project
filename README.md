@@ -1,4 +1,4 @@
-# How to host & format a resume using Markdown, VSCode, GitHub Pages, and Jekyll
+# How to host & format a resume using Markdown, Visual Studio Code, GitHub Pages, and Jekyll
 
 ## Purpose
 
@@ -10,7 +10,7 @@ I understand some of you may not have any experience in Markdown, Visual Studio 
 
 ### Prerequisites
 
-#### VSCode
+#### Visual Studio Code
 First, you are going need to a Markdown editor. I recommend using Visual Studio Code with a Markdown viewer extension. 
 
 1. Install Visual Studio Code through this [link](https://code.visualstudio.com/)
@@ -72,7 +72,7 @@ To reiterate, you can use either of the following links below to learn Markdown:
 
 #### Instructions:
 
-1. Next, with your project's repository still open in VSCode, you are going to create __3__ new files:
+1. Next, with your project's repository still open in Visual Studio Code, you are going to create __3__ new files:
     1. __index\.md__
         * This is the file where you will type your Markdown resumé in
 
