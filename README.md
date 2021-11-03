@@ -2,18 +2,18 @@
 
 ## Purpose
 
-The purpose of this document is to convince readers, especially software developers, into creating simple, elegant, and customizable resumés. Specifically, using current technical documentation tools such Markdown, VSCode, GitHub Pages, and Jekyll as  described in Andrew Etter's book, _Modern Technical Writing: An Introduction to Software Documentation_. Additionally, this tutorial will introduce and demonstrate key principles mentioned in Etter's book. These principles are particularily useful for computer science students as they describe comprehensive guidelines in creating effective documentation. This is a skill software developers in the workforce inevitably are required to learn and master. This stems from the fact that good documentation encourages and simplifies collaboration between software developers in teams; which is a common environment for developers.
+The purpose of this document is to convince readers, especially software developers, into creating simple, elegant, and customizable resumés. Specifically, using current technical documentation tools such Markdown, Visual Studio Code, GitHub Pages, and Jekyll as  described in Andrew Etter's book, _Modern Technical Writing: An Introduction to Software Documentation_. Additionally, this tutorial will introduce and demonstrate key principles mentioned in Etter's book. These principles are particularily useful for computer science students as they describe comprehensive guidelines in creating effective documentation. This is a skill software developers in the workforce inevitably are required to learn and master. This stems from the fact that good documentation encourages and simplifies collaboration between software developers in teams; which is a common environment for developers.
 
 ## Getting Started
 
-I understand some of you may not have any experience in Markdown, VSCode, GitHub Pages, or Jekyll. This tutorial will comprehensively go through each step while explaining how it relates to Etter's protocol. First, let us start with a couple of prerequisites. 
+I understand some of you may not have any experience in Markdown, Visual Studio Code, GitHub Pages, or Jekyll. This tutorial will comprehensively go through each step while explaining how it relates to Etter's protocol. First, let us start with a couple of prerequisites. 
 
 ### Prerequisites
 
 #### VSCode
-First, you are going need to a Markdown editor. I recommend using VSCode with a Markdown viewer extension. 
+First, you are going need to a Markdown editor. I recommend using Visual Studio Code with a Markdown viewer extension. 
 
-1. Install VSCode through this [link](https://code.visualstudio.com/)
+1. Install Visual Studio Code through this [link](https://code.visualstudio.com/)
 2. Then install the Markdown Preview Enhanced extension by Yiyi Wang
 
     ![Installing Markdown Preview Enhanced](https://i.imgur.com/CafrpvT.jpeg)
@@ -59,7 +59,7 @@ Version control is important to documentation because as products/software chang
 4. Clone your repository into your local system
 
     ![Cloning repository](https://i.imgur.com/E7cqNN4.gif)
-5. Open your recently cloned repository folder in VSCode
+5. Open your recently cloned repository folder in Visual Studio Code
 
 ### Markdown
 
